@@ -1,0 +1,4 @@
+USER='pip'
+PASSWORD='pticsa990'
+DATABASE='pip'
+HOST='127.0.0.1'
